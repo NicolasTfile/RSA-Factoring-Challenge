@@ -1,4 +1,6 @@
+#!/usr/bin/python3
 import sys
+
 """factorize given set of numbers in a file to product of two small numbers"""
 
 def factors(file_path):
